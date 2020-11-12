@@ -1,2 +1,2 @@
-# Dice Challenge
- dice challenge work with Udemy
+# Dice-Challenge
+ Dice-Challenge with Udemy
